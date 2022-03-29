@@ -10,5 +10,5 @@
  
 
  
-  ![Snake animation](https://github.com/lucaspk123/lucaspk123/blob/output/cobrinha.svg)
+  ![Snake animation](https://github.com/lucaspk123/lucaspk123/)
  
