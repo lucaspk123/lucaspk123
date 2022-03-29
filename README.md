@@ -1,0 +1,3 @@
+- 👋 Ola, me chamo Lucas Henrique
+- 👀 Estou interessado em ampliar meus conhecimentos
+- 🌱 No momento estou cursando minha graduação em ciências da computação, estou aprendendo por conta propria python, html, css, javascript e java
